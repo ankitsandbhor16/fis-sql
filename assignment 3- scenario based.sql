@@ -12,7 +12,6 @@ insert into BOOKS values(1,'my first sql book','mary parker',981483029127,'2012-
 						(2,'my second sql book','john mayer',857300923713,'1972-07-03 09:22:45') ,
 						(3,'my third sql book','cary flint',523120967812,'2015-10-18 14:05:44') 
 
-drop table reviews
 select * from BOOKS
 select * from REVIEWS
 
